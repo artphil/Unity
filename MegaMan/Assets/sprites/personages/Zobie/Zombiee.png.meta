@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: f7ca165b85fc74e41ab350804e82e030
+timeCreated: 1442002918
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombiee_0
+    21300002: Zombiee_1
+    21300004: Zombiee_2
+    21300006: Zombiee_3
+    21300008: Zombiee_4
+    21300010: Zombiee_5
+    21300012: Zombiee_6
+    21300014: Zombiee_7
+    21300016: Zombiee_8
+    21300018: Zombiee_9
+    21300020: Zombiee_10
+    21300022: Zombiee_11
+    21300024: Zombiee_12
+    21300026: Zombiee_13
+    21300028: Zombiee_14
+    21300030: Zombiee_15
+    21300032: Zombiee_16
+    21300034: Zombiee_17
+    21300036: Zombiee_18
+    21300038: Zombiee_19
+    21300040: Zombiee_20
+    21300042: Zombiee_21
+    21300044: Zombiee_22
+    21300046: Zombiee_23
+    21300048: Zombiee_24
+    21300050: Zombiee_25
+    21300052: Zombiee_26
+    21300054: Zombiee_27
+    21300056: Zombiee_28
+    21300058: Zombiee_29
+    21300060: Zombiee_30
+    21300062: Zombiee_31
+    21300064: Zombiee_32
+    21300066: Zombiee_33
+    21300068: Zombiee_34
+    21300070: Zombiee_35
+    21300072: Zombiee_36
+    21300074: Zombiee_37
+    21300076: Zombiee_38
+    21300078: Zombiee_39
+    21300080: Zombiee_40
+    21300082: Zombiee_41
+    21300084: Zombiee_42
+    21300086: Zombiee_43
+    21300088: Zombiee_44
+    21300090: Zombiee_45
+    21300092: Zombiee_46
+    21300094: Zombiee_47
+    21300096: Zombiee_48
+    21300098: Zombiee_49
+    21300100: Zombiee_50
+    21300102: Zombiee_51
+    21300104: Zombiee_52
+    21300106: Zombiee_53
+    21300108: Zombiee_54
+    21300110: Zombiee_55
+    21300112: Zombiee_56
+    21300114: Zombiee_57
+    21300116: Zombiee_58
+    21300118: Zombiee_59
+    21300120: Zombiee_60
+    21300122: Zombiee_61
+    21300124: Zombiee_62
+    21300126: Zombiee_63
+    21300128: Zombiee_64
+    21300130: Zombiee_65
+    21300132: Zombiee_66
+    21300134: Zombiee_67
+    21300136: Zombiee_68
+    21300138: Zombiee_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zombiee_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 402
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 410
+        width: 44
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 410
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 410
+        width: 41
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 410
+        width: 51
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 410
+        width: 43
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 410
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 410
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 410
+        width: 54
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 323
+        width: 41
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 323
+        width: 45
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 323
+        width: 51
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 323
+        width: 45
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 323
+        width: 40
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 323
+        width: 50
+        height: 71
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 323
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 323
+        width: 44
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 323
+        width: 40
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 323
+        width: 45
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 323
+        width: 36
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_20
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 323
+        width: 37
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 247
+        width: 37
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 247
+        width: 44
+        height: 71
+      alignment: 9
+      pivot: {x: .494342119, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 247
+        width: 38
+        height: 71
+      alignment: 9
+      pivot: {x: .460692763, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 247
+        width: 36
+        height: 71
+      alignment: 9
+      pivot: {x: .486169606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 247
+        width: 37
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 247
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: .49000001, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 247
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 247
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 313
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 247
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_31
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 247
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 310
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_33
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 247
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 247
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 303
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 305
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 303
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 301
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 303
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 298
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 164
+        width: 37
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 164
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 164
+        width: 43
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 164
+        width: 42
+        height: 76
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 164
+        width: 41
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 164
+        width: 42
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 164
+        width: 61
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 164
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_49
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 164
+        width: 78
+        height: 71
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_50
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 164
+        width: 37
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 89
+        width: 53
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 46
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 89
+        width: 58
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 89
+        width: 51
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 89
+        width: 38
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 89
+        width: 44
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 89
+        width: 46
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_58
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 89
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_59
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 89
+        width: 72
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_60
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 89
+        width: 36
+        height: 68
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 37
+        height: 67
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_62
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 15
+        width: 43
+        height: 64
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 15
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 17
+        width: 45
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 45
+        height: 30
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 15
+        width: 45
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 15
+        width: 45
+        height: 25
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_68
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 15
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zombiee_69
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 17
+        width: 90
+        height: 32
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
